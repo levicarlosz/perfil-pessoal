@@ -3,7 +3,7 @@
 
 Este é o repositório do meu portfólio pessoal, uma página web estática desenvolvida para apresentar minhas habilidades, experiências e projetos na área de Segurança da Informação. O design é limpo, moderno e totalmente responsivo.
 
-### ✨ [Veja o portfólio no ar](https://portifolio-hu2aw3xct-levicarlos-projects.vercel.app/)
+### ✨ [Veja o portfólio no ar](https://portifolio-fdxedvfd5-levicarlos-projects.vercel.app/)
 
 ![image](https://github.com/user-attachments/assets/ac8c0bfb-edae-4304-b18e-955ad15f9e02)
 
