@@ -5,7 +5,7 @@ Este é o repositório do meu portfólio pessoal, uma página web estática dese
 
 ### ✨ [Veja o portfólio no ar](https://portifolio-hu2aw3xct-levicarlos-projects.vercel.app/)
 
-![image](https://github.com/user-attachments/assets/3e8337c6-6ca2-42b9-8908-0f39039e23fa)
+![image](https://github.com/user-attachments/assets/ac8c0bfb-edae-4304-b18e-955ad15f9e02)
 
 ---
 
