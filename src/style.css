@@ -137,9 +137,24 @@ header .content a:hover {
   align-items: flex-start;
 }
 
-#sobre-mim img {
+#sobre-mim .image {
   width: 270px;
+  height: 360px;
+  background-image: url("./images/profile.jpg");
+  background-position: center;
+  background-size: contain;
+  border-radius: 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: 1rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
   object-fit: cover;
+}
+
+#sobre-mim .image:hover {
+  outline: 4px solid var(--color-accent);
+  border: 1px solid var(--color-accent);
+  transform: scale(1.05);
 }
 
 #sobre-mim .lado-esquerdo {
@@ -330,6 +345,7 @@ header .content a:hover {
 
   #sobre-mim .lado-esquerdo {
     position: static;
+    display: none;
   }
 
   #sobre-mim img {
