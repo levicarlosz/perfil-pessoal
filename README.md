@@ -5,7 +5,8 @@ Este é o repositório do meu portfólio pessoal, uma página web estática dese
 
 ### ✨ [Veja o portfólio no ar](https://portifolio-rouge-pi-78.vercel.app/)
 
-![image](https://github.com/user-attachments/assets/ac8c0bfb-edae-4304-b18e-955ad15f9e02)
+![image](https://github.com/user-attachments/assets/1aced5b1-baeb-41c2-b8a2-fbb46ba3843f)
+
 
 ---
 
