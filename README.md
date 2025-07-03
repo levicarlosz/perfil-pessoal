@@ -59,10 +59,21 @@ E pronto\! A página estará visível.
 A estrutura de arquivos é simples e organizada da seguinte forma:
 
 ```
-├── index.html       # Arquivo principal da página
-├── style.css        # Folha de estilos
+📂 src/
+├── index.html               # Arquivo principal da página
+├── style.css                # Folha de estilos
+├── README.md                # Documentação do projeto
 └── images/
-    └── profile.jpg  # Foto de perfil
+    ├── logo.jpg             # Logotipo do site
+    ├── profile.jpg          # Foto de perfil
+    └── favicon/
+        ├── android-chrome-192x192.png
+        ├── android-chrome-512x512.png
+        ├── apple-touch-icon.png
+        ├── favicon-16x16.png
+        ├── favicon-32x32.png
+        ├── favicon.ico
+        └── site.webmanifest
 ```
 
 ---
